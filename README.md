@@ -5,4 +5,6 @@ skjdhv sdvwv
 hey
  or hi
 
-conflict
+<<<<<<< HEAD
+
+another conflict
